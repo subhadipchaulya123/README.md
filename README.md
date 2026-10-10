@@ -1,4 +1,4 @@
-Hi, I'm Subhadip 👋
+# Hi, I'm Subhadip 👋
 🎓 B.Tech CSE(Ai & ML) Student
 💻 Learning C,Java,Python Programming
 🌱 Interested in AI,Machine Learning,Open source project
